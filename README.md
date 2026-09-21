@@ -45,8 +45,8 @@ A modern web application that extracts, summarizes, and translates YouTube video
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/WoWfff/youtube_transcript_sum.git
-   cd youtube_transcript_sum
+   git clone https://github.com/WoWfff/YouTubeSummarizer.git
+   cd YouTubeSummarizer
    ```
 
 2. **Create a virtual environment**
